@@ -1,6 +1,5 @@
 
 # Credit owner to https://github.com/sawankarn/spring-boot-debezium-master-slave-example
-=======
 # Debezium Installation with Spring Boot, Postgresql and Mysql
 
 [![Debezium Installation with Spring Boot, Postgresql and Mysql](https://img.youtube.com/vi/gurxMenlj9E/maxresdefault.jpg)](https://youtu.be/gurxMenlj9E)
